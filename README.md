@@ -24,15 +24,15 @@ PCB Bottom:
 
 PCB size comparing STM32F103:
 
-![Image](https://github.com/PCBasPRO/PCBasPRO_0001_D.I.R.E._60-smaller./blob/main/PCB size comparing STM32F103.jpg)
+![Image](https://github.com/PCBasPRO/PCBasPRO_0001_D.I.R.E._60-smaller./blob/main/PCB%20size%20comparing%20STM32F103.jpg)
 
 Display working:
 
-![Image](https://github.com/PCBasPRO/PCBasPRO_0001_D.I.R.E._60-smaller./blob/main/Display working.jpg)
+![Image](https://github.com/PCBasPRO/PCBasPRO_0001_D.I.R.E._60-smaller./blob/main/Display%20working.jpg)
 
 Display working with SD card:
 
-![Image](https://github.com/PCBasPRO/PCBasPRO_0001_D.I.R.E._60-smaller./blob/main/Display working with SD card.jpg)
+![Image](https://github.com/PCBasPRO/PCBasPRO_0001_D.I.R.E._60-smaller./blob/main/Display%20working%20with%20SD%20card.jpg)
 
 ### **Acknowledgements:**
 
