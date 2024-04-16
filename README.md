@@ -2,7 +2,7 @@
 Yet another D.I.R.E. PCB but 60% smaller.
 
 ### **Features:**
-- Case 60% smaller (50.5mm*63mm*20mm)
+- Case 60% smaller (50.5mmX63mmX20mm)
 - Same display
 - Same push buttom location
 - New PCB (smaller size)
