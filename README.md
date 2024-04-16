@@ -15,19 +15,20 @@ Yet another D.I.R.E. PCB but 60% smaller.
 ### **Final looking:**
 
 PCB Top:
-https://github.com/PCBasPRO/PCBasPRO_0001_D.I.R.E._60-smaller./blob/main/Top.jpg
+![Image](https://github.com/PCBasPRO/PCBasPRO_0001_D.I.R.E._60-smaller./blob/main/Top.jpg)
 
 PCB Bottom:
-https://github.com/PCBasPRO/PCBasPRO_0001_D.I.R.E._60-smaller./blob/main/Bottom.jpg
+![Image](https://github.com/PCBasPRO/PCBasPRO_0001_D.I.R.E._60-smaller./blob/main/Bottom.jpg)
 
 PCB size comparing STM32F103:
-https://github.com/PCBasPRO/PCBasPRO_0001_D.I.R.E._60-smaller./blob/main/PCB size comparing STM32F103.jpg
+![Image](https://github.com/PCBasPRO/PCBasPRO_0001_D.I.R.E._60-smaller./blob/main/PCB size comparing STM32F103.jpg)
 
 Display working:
-https://github.com/PCBasPRO/PCBasPRO_0001_D.I.R.E._60-smaller./blob/main/Display working.jpg
+![Image](https://github.com/PCBasPRO/PCBasPRO_0001_D.I.R.E._60-smaller./blob/main/Display working.jpg)
 
 Display working with SD card:
-https://github.com/PCBasPRO/PCBasPRO_0001_D.I.R.E._60-smaller./blob/main/Display working with SD card.jpg
+![Image](https://github.com/PCBasPRO/PCBasPRO_0001_D.I.R.E._60-smaller./blob/main/Display working with SD card.jpg)
+
 ### **Acknowledgements:**
 
 This PCB is a combination of some ideas/work of the follow [D.I.R.E. project.](https://gbatemp.net/threads/disney-infinity-lego-dimensions-skylanders-base-emulator-project-d-i-r-e.593292/) 
