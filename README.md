@@ -14,14 +14,6 @@ Yet another D.I.R.E. PCB but 60% smaller.
 
 ### **Final looking:**
 
-PCB Top:
-
-![Image](https://github.com/PCBasPRO/PCBasPRO_0001_D.I.R.E._60-smaller./blob/main/Top.jpg)
-
-PCB Bottom:
-
-![Image](https://github.com/PCBasPRO/PCBasPRO_0001_D.I.R.E._60-smaller./blob/main/Bottom.jpg)
-
 PCB size comparing STM32F103:
 
 ![Image](https://github.com/PCBasPRO/PCBasPRO_0001_D.I.R.E._60-smaller./blob/main/PCB%20size%20comparing%20STM32F103.jpg)
